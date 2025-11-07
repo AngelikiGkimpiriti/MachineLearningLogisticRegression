@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+
+# Environment files
+.env
+.venv/
+venv/
+env/
+ENV/
+*.env
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and caches
+*.log
+*.bak
+.cache/
+instance/
+
+# Virtual environment folders
+pip-wheel-metadata/
+build/
+dist/
+.eggs/
+*.egg-info/
+*.egg
+
+# Jupyter notebooks checkpoints (if used)
+.ipynb_checkpoints/
+
+# Redis dump file (if you save local Redis data)
+dump.rdb
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.mypy_cache/
+.pyre/
